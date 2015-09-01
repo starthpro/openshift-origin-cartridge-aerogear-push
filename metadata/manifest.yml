@@ -80,7 +80,7 @@ Subscribes:
   set-wildfly-cluster:
     Type: NET_TCP:wildfly-cluster-info
 Scaling:
-  Min: 2
+  Min: 1
   Max: -1
 Endpoints:
   - Private-IP-Name:     IP
